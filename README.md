@@ -10,6 +10,14 @@ Generating vectors and matrices for lattices:<br>
 
 The vectors are taken from Dirk Nuyens' [Magic Point Shop](https://people.cs.kuleuven.be/~dirk.nuyens/qmc-generators/).
 
+### Helper-functions
+Helper functions:<br>
+- *Utils.ipynb*: functions for convergence and optimisation experiments
+- *Plot_fcts.ipynb*: plotting funtions
+- *ot_slicedW.ipynb*: adapted source code of the [POT](https://pythonot.github.io/index.html) library for sliced Wasserstein distances
+
+The first two notebooks are loaded in all other notebooks listed below, so that their file paths might need to be adjusted where indicated. The third notebook is loaded in all sliced Wasserstein distance applications.
+
 ### Sample complexity
 #### Uniform
 
