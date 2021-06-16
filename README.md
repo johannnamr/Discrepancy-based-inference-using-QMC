@@ -31,6 +31,8 @@ Results for the bivariate beta distribution:
 
 #### Mv-g-and-k-distribution
 Results for the multivariate g-and-k distribution:
+- *mvgandk_check.ipynb*: test of kernel, generator and all partial derivatives
+- *mvgandk_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
 
 #### G-and-k-distribution
 Results for the univariate g-and-k distribution:
