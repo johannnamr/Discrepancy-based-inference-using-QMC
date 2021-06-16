@@ -25,6 +25,13 @@ The first two notebooks are loaded in all other notebooks listed below, so that 
 
 
 ### Inference
-#### Bivariate beta distribution
+#### Bivariate-beta-distribution
 
-#### Multivariate g-and-k distribution
+#### MV-g-and-k-distribution
+
+#### G-and-k-distribution
+This folder contains all results for the univariate g-and-k distribution:
+- *gandk_check.ipynb*: test of kernel, generator and all partial derivatives
+- *gandk_check.ipynb*: optimisation procedure using MC, QMC and RQMC
+
+
