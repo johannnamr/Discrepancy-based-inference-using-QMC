@@ -7,4 +7,5 @@ This repository contains the python code to recreate the numerical experiments i
 Generating vectors and matrices for lattices:<br> 
 - *lattice_vec.600.20.npy* for order-2 lattice<br> 
 - *lattice_vec.600.13.npy* for order-8 lattice<br> 
-The files are taken from Dirk Nuyens' [Magic Point Shop](https://people.cs.kuleuven.be/~dirk.nuyens/qmc-generators/)
+
+The vectors are taken from Dirk Nuyens' [Magic Point Shop](https://people.cs.kuleuven.be/~dirk.nuyens/qmc-generators/)
