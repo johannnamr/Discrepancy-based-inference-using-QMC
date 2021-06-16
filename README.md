@@ -29,7 +29,7 @@ Results for the Gaussian distribution:
 #### Bivariate-beta-distribution
 Results for the bivariate beta distribution:
 
-#### MV-g-and-k-distribution
+#### Mv-g-and-k-distribution
 Results for the multivariate g-and-k distribution:
 
 #### G-and-k-distribution
