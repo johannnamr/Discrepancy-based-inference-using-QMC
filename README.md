@@ -21,9 +21,17 @@ The first two notebooks are loaded in all other notebooks listed below, so that 
 ### Sample complexity
 #### Uniform
 Results for the uniform distribution:
+- *unif_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
+- *unif_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
+- *unif_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
+- *unif_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
 
 #### Gaussian
 Results for the Gaussian distribution:
+- *Gaussian_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
+- *Gaussian_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
+- *Gaussian_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
+- *Gaussian_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
 
 ### Inference
 #### Bv-beta-distribution
