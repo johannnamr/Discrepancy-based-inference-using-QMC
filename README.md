@@ -9,3 +9,14 @@ Generating vectors and matrices for lattices:<br>
 - *lattice_vec.600.13.npy* for order-8 lattice<br> 
 
 The vectors are taken from Dirk Nuyens' [Magic Point Shop](https://people.cs.kuleuven.be/~dirk.nuyens/qmc-generators/).
+
+### Sample complexity
+#### Uniform
+
+#### Gaussian
+
+
+### Inference
+#### Bivariate beta distribution
+
+#### Multivariate g-and-k distribution
