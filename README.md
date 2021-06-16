@@ -17,22 +17,6 @@ Helper functions:<br>
 - *ot_slicedW.ipynb*: adapted source code of the [POT](https://pythonot.github.io/index.html) library for sliced Wasserstein distances
 
 The first two notebooks are loaded in all other notebooks listed below, so that their file paths might need to be adjusted where indicated. The third notebook is loaded in all sliced Wasserstein distance applications.
-
-### Sample complexity
-#### Uniform
-Results for the uniform distribution:
-- *Unif_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
-- *Unif_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
-- *Unif_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
-- *Unif_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
-
-#### Gaussian
-Results for the Gaussian distribution:
-- *Gaussian_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
-- *Gaussian_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
-- *Gaussian_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
-- *Gaussian_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
-
 ### Inference
 #### Bv-beta-distribution
 Results for the bivariate beta distribution:
@@ -55,5 +39,26 @@ Results for the multivariate g-and-k distribution:
 - *mvgandk_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
 - *mvgandk_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
 - *mvgandk_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
+
+### Sample complexity
+#### Uniform
+Results for the uniform distribution:
+- *Unif_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
+- *Unif_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
+- *Unif_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
+- *Unif_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
+
+#### Gaussian
+Results for the Gaussian distribution:
+- *Gaussian_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
+- *Gaussian_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
+- *Gaussian_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
+- *Gaussian_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
+
+### Visualisations
+Notebooks containing the summarising figures
+- *Illustration_QMC.ipynb*: comparison of MC and QMC point sets (figure 1)
+- *Inference.ipynb*: plots for bivariate beta, univariate g-and-k and multivariate g-and-k distributions
+- *Sample_complexity.ipynb*: plots for uniform and Gaussian distributions
 
 
