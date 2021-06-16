@@ -32,6 +32,6 @@ The first two notebooks are loaded in all other notebooks listed below, so that 
 #### G-and-k-distribution
 This folder contains all results for the univariate g-and-k distribution:
 - *gandk_check.ipynb*: test of kernel, generator and all partial derivatives
-- *gandk_check.ipynb*: optimisation procedure using MC, QMC and RQMC
+- *gandk_optim.ipynb*: optimisation procedure for MMD^2 using MC, QMC and RQMC
 
 
