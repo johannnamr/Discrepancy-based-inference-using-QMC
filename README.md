@@ -26,7 +26,7 @@ Results for the uniform distribution:
 Results for the Gaussian distribution:
 
 ### Inference
-#### Bivariate-beta-distribution
+#### Bv-beta-distribution
 Results for the bivariate beta distribution:
 - *bibeta_check.ipynb*: test of kernel, generator and all partial derivatives
 - *bibeta_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
