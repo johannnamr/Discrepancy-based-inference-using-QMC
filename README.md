@@ -28,6 +28,12 @@ Results for the Gaussian distribution:
 ### Inference
 #### Bivariate-beta-distribution
 Results for the bivariate beta distribution:
+- *bibeta_check.ipynb*: test of kernel, generator and all partial derivatives
+- *bibeta_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
+- *bibeta_conv_W.ipynb*: convergence of the Wasserstein distance using MC, QMC and RQMC
+- *mbibeta_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
+- *bibeta_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
+- *bibeta_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
 
 #### Mv-g-and-k-distribution
 Results for the multivariate g-and-k distribution:
