@@ -20,17 +20,20 @@ The first two notebooks are loaded in all other notebooks listed below, so that 
 
 ### Sample complexity
 #### Uniform
+Results for the uniform distribution:
 
 #### Gaussian
-
+Results for the Gaussian distribution:
 
 ### Inference
 #### Bivariate-beta-distribution
+Results for the bivariate beta distribution:
 
 #### MV-g-and-k-distribution
+Results for the multivariate g-and-k distribution:
 
 #### G-and-k-distribution
-This folder contains all results for the univariate g-and-k distribution:
+Results for the univariate g-and-k distribution:
 - *gandk_check.ipynb*: test of kernel, generator and all partial derivatives
 - *gandk_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
 
