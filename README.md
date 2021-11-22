@@ -38,7 +38,7 @@ Results for the multivariate g-and-k distribution:
 - *mvgandk_conv_mmd2.ipynb*: convergence of the squared MMD using MC, QMC and RQMC
 - *mvgandk_conv_sink.ipynb*: convergence of the Sinkhorn divergence using MC, QMC and RQMC
 - *mvgandk_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
-- *mvgandk_MCvsQMC.ipynb*: comparison of the computational cost for sampling from the multivariate g-and-k distribution using MC and QMC
+- *mvgandk_times.ipynb*: comparison of the computational cost for sampling from the multivariate g-and-k distribution using MC and QMC
 - *mvgandk_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
 
 #### Variational autoencoder
