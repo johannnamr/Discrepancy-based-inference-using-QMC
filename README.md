@@ -40,6 +40,13 @@ Results for the multivariate g-and-k distribution:
 - *mvgandk_conv_slicedW.ipynb*: convergence of the sliced Wasserstein distance using MC, QMC and RQMC
 - *mvgandk_optim.ipynb*: optimisation procedure for squared MMD using MC, QMC and RQMC
 
+#### Variational autoencoder
+Results for the variational autoencoder:
+- *vae_optim_mc.ipynb*: optimisation procedure for Sinkhorn divergence using MC
+- *vae_optim_qmc.ipynb*: optimisation procedure for Sinkhorn divergence using RQMC
+- *vae_times.ipynb*: comparison of the computational cost for sampling from the VAE using MC and QMC
+- *vae_sample_complexity.ipynb*: convergence of Sinkhorn divergence using MC and RQMC
+
 ### Sample complexity
 #### Uniform
 Results for the uniform distribution:
@@ -59,6 +66,7 @@ Results for the Gaussian distribution:
 Notebooks containing the summarising figures
 - *Illustration_QMC.ipynb*: comparison of MC and QMC point sets (figure 1)
 - *Inference.ipynb*: plots for bivariate beta, univariate g-and-k and multivariate g-and-k distributions
+- *MC_vs_QMC_times.ipynb*: comparison of python libraries for MC and QMC sampling
 - *Sample_complexity.ipynb*: plots for uniform and Gaussian distributions
 
 
