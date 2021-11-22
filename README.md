@@ -65,7 +65,7 @@ Results for the Gaussian distribution:
 ### Visualisations
 Notebooks containing the summarising figures
 - *Illustration_QMC.ipynb*: comparison of MC and QMC point sets (figure 1)
-- *Inference.ipynb*: plots for bivariate beta, univariate g-and-k and multivariate g-and-k distributions
+- *Inference.ipynb*: plots for bivariate beta, univariate g-and-k, multivariate g-and-k distributions and the variational autoencoder
 - *MC_vs_QMC_times.ipynb*: comparison of python libraries for MC and QMC sampling
 - *Sample_complexity.ipynb*: plots for uniform and Gaussian distributions
 
